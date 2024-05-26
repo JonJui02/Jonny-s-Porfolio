@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "@ AirdroiTech",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Works on PolyPlan development",
+      "Add New Features and functions"
+    ],
+    "imageSrc": "history/airdroitech.jpg"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": " @ AirdroiTech",
+    "startDate": "January, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Revamp the Company's website",
+      "Developed a Smart Home demo"
+    ],
+    "imageSrc": "history/airdroitech.jpg"
+  },
+  {
+    "role": "BIT Student",
+    "organisation": "@ CTU",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": ["Dean's list 2022", "Dean's list 2023"],
+    "imageSrc": "history/ctu.png"
+  }
+]

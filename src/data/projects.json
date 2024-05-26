@@ -1,0 +1,26 @@
+[
+  {
+    "title": "BitesNDash",
+    "imageSrc": "projects/BND.PNG",
+    "description": "A Final Year Project, where I developed a Food ordering Application for a cafe.",
+    "skills": ["Flutter Flow", "Firebase", "Stripe", "Figma"],
+    "demo": "https://app.flutterflow.io/project/bites-n-dash-935t9k",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Airdroitech's Website",
+    "imageSrc": "projects/project.png",
+    "description": "Revamp the company's website while enhancing my knowledge in web development.",
+    "skills": ["Wordpress", "Web Design", "UI/UX", "Sass"],
+    "demo": "https://airdroitech.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Smart Home Demo",
+    "imageSrc": "projects/smarthome.PNG",
+    "description": "Developed an innovative smart home interface demo for Airtouch's latest project. Worked closely with a devops team",
+    "skills": ["HTML5", "CSS", "Javascript", "Jquery"],
+    "demo": "https://www.polyairepricebook.com.au/AT5SmartHomeWebDemo/AT5-smart-home-demo.html",
+    "source": "https://www.github.com"
+  }
+]
