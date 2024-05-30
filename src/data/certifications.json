@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Data Analytics",
+    "issuingOrganization": "Google",
+    "issueDate": "June 2023",
+    "imageSrc": "certs/cert1.PNG",
+    "url": "https://www.coursera.org/account/accomplishments/verify/23NKH7K22BMX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+  },
+  {
+    "title": "Dean's List",
+    "issuingOrganization": "City University",
+    "issueDate": "July 2023 & Jan 2024",
+    "imageSrc": "certs/cert2.PNG",
+    "url": "https://example.com/cert2"
+  },
+  {
+    "title": "Responsive Web Design",
+    "issuingOrganization": "freeCodeCamp",
+    "issueDate": "Jan 2024",
+    "imageSrc": "certs/cert3.PNG",
+    "url": "https://www.freecodecamp.org/certification/JonJui02/responsive-web-design"
+  },
+  {
+    "title": "Master Laravel",
+    "issuingOrganization": "Udemy",
+    "issueDate": "March 2024",
+    "imageSrc": "certs/cert4.PNG",
+    "url": "https://drive.google.com/file/d/1PsybDdvgl8vuiJo9Ua09HUax927z4mvQ/view"
+  },
+  {
+    "title": "Build API & React Native",
+    "issuingOrganization": "Lab Akselerasi X Krenovator",
+    "issueDate": "March 2024",
+    "imageSrc": "certs/cert5.PNG",
+    "url": "https://drive.google.com/file/d/1aZEcunmjwLaf3z8Kb9XLUW3ludbH2yfM/view"
+  },
+  {
+    "title": "Foundational C#",
+    "issuingOrganization": "Microsoft X freeCodeCamp",
+    "issueDate": "May 2024",
+    "imageSrc": "certs/cert6.PNG",
+    "url": "https://www.freecodecamp.org/certification/JonJui02/foundational-c-sharp-with-microsoft"
+  }
+]
